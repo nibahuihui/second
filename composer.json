@@ -1,5 +1,5 @@
 {
-    "name": "hello/say",
+    "name": "hello123/say",
     "description": "test",
     "type": "library",
     "authors": [
@@ -11,7 +11,7 @@
     "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
-            "hello\\": "src/"
+            "hello123\\": "src/"
         }
     }
    

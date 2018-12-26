@@ -1,6 +1,6 @@
 <?php
  
-namespace Hello;
+namespace Hello123;
  
 class SayHello
 {
